@@ -1,8 +1,10 @@
 # end-to-end-funnel-analysis-sql-python-tableau
 Marketing Funnel Conversion Analysis
+
 This project showcases an end-to-end analytics workflow built to analyze a marketing funnel, understand user drop-offs at each stage, and track how conversion performance changes over time.
 The goal was not just to build dashboards, but to simulate how real analytics work happens in practice — starting from raw data, validating logic in SQL and Python, and finally presenting insights through an interactive Tableau dashboard that stakeholders can actually use.
-Tools & Technologies
+
+**Tools & Technologies**
 
 SQL – used for data exploration, funnel logic, and metric calculations
 
@@ -12,7 +14,7 @@ Tableau – used for interactive visualizations and storytelling
 
 GitHub – used for version control, documentation, and project sharing
 
-Business Questions Answered
+**Business Questions Answered**
 
 This analysis answers practical business questions such as:
 
@@ -24,7 +26,7 @@ How does the conversion rate change month-over-month?
 
 Which funnel stages offer the biggest opportunity for optimization?
 
-Key Metrics
+**Key Metrics**
 
 The project focuses on metrics commonly used in real-world funnel and growth analysis:
 
@@ -36,7 +38,7 @@ Monthly conversion rate
 
 Month-over-Month (MoM) conversion change
 
-Dashboard
+**Dashboard**
 
 The Tableau dashboard brings the analysis together in a visual, decision-friendly format and includes:
 
