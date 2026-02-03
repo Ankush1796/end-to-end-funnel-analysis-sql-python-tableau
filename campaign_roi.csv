@@ -1,0 +1,5 @@
+campaign_id,total_cost,campaign_name,users,conversions,conversion_rate,cost_per_conversion
+CAMP_1,1980,Google Search,33,8,24.242424242424242,247.5
+CAMP_2,3600,LinkedIn B2B Outreach,42,5,11.904761904761903,720.0
+CAMP_3,2700,Email Nurture,36,9,25.0,300.0
+CAMP_4,1800,Google Display,39,5,12.82051282051282,360.0
